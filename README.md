@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Developer, always seeki
 
 ##  Contact
 
-* <a href="mailto:duyxanh2002@gmail.com"> <img align="center" alt="Email" height="20" width="20" src="https://img.icons8.com/color/48/000000/gmail-new.png"> Email</a>
-* <a href="https://www.youtube.com/@greend06"> <img align="center" alt="Youtube" height="20" width="20" src="https://img.icons8.com/color/48/000000/youtube-play.png"> Youtube</a>
-* <a href="https://www.facebook.com/greendyy"> <img align="center" alt="Facebook" height="20" width="20" src="https://img.icons8.com/color/48/000000/facebook-new.png"> Facebook</a>
-* <a href="https://porfolio-nine-wheat.vercel.app/"> <img align="center" alt="Portfolio" height="20" width="20" src="https://img.icons8.com/color/48/000000/briefcase.png"> My Portfolio</a>
+* <a href="mailto:duyxanh2002@gmail.com" target="_blank"> <img align="center" alt="Email" height="20" width="20" src="https://img.icons8.com/color/48/000000/gmail-new.png"> Email</a>
+* <a href="https://www.youtube.com/@greend06" target="_blank"> <img align="center" alt="Youtube" height="20" width="20" src="https://img.icons8.com/color/48/000000/youtube-play.png"> Youtube</a>
+* <a href="https://www.facebook.com/greendyy" target="_blank"> <img align="center" alt="Facebook" height="20" width="20" src="https://img.icons8.com/color/48/000000/facebook-new.png"> Facebook</a>
+* <a href="https://porfolio-nine-wheat.vercel.app/" target="_blank"> <img align="center" alt="Portfolio" height="20" width="20" src="https://img.icons8.com/color/48/000000/briefcase.png"> My Portfolio</a>
 
 Thanks for visiting!
